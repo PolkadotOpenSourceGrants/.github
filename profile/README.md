@@ -2,13 +2,11 @@
 
 This is the official site of the Polkadot Open Source Grants Bounty.
 
-We are currently setting up the application process and will update this site once it is live.
-
 | [» Guidelines](https://github.com/PolkadotOpenSourceGrants/apply#guidelines) | [» How to apply](https://github.com/PolkadotOpenSourceGrants/apply#process) | [» Join our chat](https://matrix.to/#/#OSDGP:matrix.org) |
 | --- | --- | --- |
 
 ## Scope
-To support 15 individuals and small teams that want to develop open-source software for the Polkadot ecosystem with up to $30,000 per team. These grants are intended for teams and individuals with a solid background in open-source software development who aspire to build proofs of concept, general-purpose libraries, or full-scale dApps beneficial to the Polkadot ecosystem. Payments will be milestone-based and only made after review.
+To support ~15 individuals and small teams that want to develop open-source software for the Polkadot ecosystem with up to $30,000 per team. These grants are intended for teams and individuals with a solid background in open-source software development who aspire to build proofs of concept, general-purpose libraries, or full-scale dApps beneficial to the Polkadot ecosystem. Payments will be milestone-based and only made after review.
 
 ## Curators
 - Diogo Mendonca from Ditavia
