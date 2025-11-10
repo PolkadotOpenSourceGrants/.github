@@ -10,10 +10,10 @@ To support ~15 individuals and small teams that want to develop open-source soft
 
 ## Curators
 - Diogo Mendonca from Ditavia
-- Tommi Enenkel from Alice und Bob
 - Otar Shakarishvili from JUST Open Source
-- Luca von Wyttenbach from Polimec
 - Sebastian Müller from Web3 Foundation
+- [Niklas Jurij Plessing](https://github.com/niklasp)
+- [Abhiraj Mengade](https://github.com/abhiraj-mengade)
 
 ## Spending Policy
 - Projects can receive up to 30k USD in DOT. Payment happens after the delivery of milestones.
