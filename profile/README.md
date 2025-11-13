@@ -9,9 +9,9 @@ This is the official site of the Polkadot Open Source Grants Bounty.
 To support ~15 individuals and small teams that want to develop open-source software for the Polkadot ecosystem with up to $30,000 per team. These grants are intended for teams and individuals with a solid background in open-source software development who aspire to build proofs of concept, general-purpose libraries, or full-scale dApps beneficial to the Polkadot ecosystem. Payments will be milestone-based and only made after review.
 
 ## Curators
-- Diogo Mendonca from Ditavia
-- Otar Shakarishvili from JUST Open Source
-- Sebastian Müller from Web3 Foundation
+- [Diogo Mendonca](https://github.com/diogo-w3f) - Web3 Foundation
+- [Otar Shakarishvili](https://github.com/oshakarishvili) - JUST Open Source
+- [Sebastian Müller](https://github.com/semuelle) - Web3 Foundation
 - [Niklas Jurij Plessing](https://github.com/niklasp)
 - [Abhiraj Mengade](https://github.com/abhiraj-mengade)
 
