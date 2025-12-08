@@ -1,5 +1,10 @@
 # Polkadot Open Source Grants Bounty
 
+> [!CAUTION]
+> **Applications are currently paused. Please do not submit any new grant applications!**
+
+-----------------
+
 This is the official site of the Polkadot Open Source Grants Bounty.
 
 | [» Guidelines](https://github.com/PolkadotOpenSourceGrants/apply#guidelines) | [» How to apply](https://github.com/PolkadotOpenSourceGrants/apply#process) | [» Join our chat](https://matrix.to/#/#OSDGP:matrix.org) |
