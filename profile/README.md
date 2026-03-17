@@ -1,7 +1,8 @@
 # Polkadot Open Source Grants Bounty
 
 > [!CAUTION]
-> **Applications are currently paused. Please do not submit any new grant applications!**
+> **This bounty is now closed and will not accept further submissions. See the final report [here](https://github.com/PolkadotOpenSourceGrants/monthly-report/blob/main/reports/final_report.md).**
+
 
 -----------------
 
